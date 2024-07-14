@@ -1,0 +1,28 @@
+.categories {
+    background-color: rgb(51, 50, 49);
+    padding: 30px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.categories--label{
+    border-radius: 12px;
+    padding: 12px 10px;
+    font-size: 15px;
+    font-weight: 700;
+    width: 220px;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.categories--card-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    width: 100%;
+    box-sizing: border-box;
+}

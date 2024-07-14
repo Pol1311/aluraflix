@@ -1,0 +1,96 @@
+.videos {
+    width: 100%;
+    text-align: center;
+    background-color:  rgba(36,33,26,0.9);
+    color: white;
+    border: 1px solid rgba(36,33,26,0.9);
+    box-shadow: 10px 0 12px #72d6cc inset;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.videos--titulo {
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+.videos--informacion{
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.videos--tarjeta {
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    padding: 20px 0;
+}
+
+.videos--form {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.videos--contenedor--etiqutas {
+    width: 48%;
+}
+
+.videos--inputs {
+    width: 100%;    
+    background-color:  rgba(36,33,26,0.9);
+    border-radius: 12px;
+    padding: 15px;
+    box-sizing: border-box;
+    color: rgb(157, 145, 145);
+    box-sizing: border-box;
+    display: block;
+
+}
+
+.videos--etiqueta {
+    width: 100%;
+    display: block;
+    text-align: left;
+    padding: 8px 0;
+    box-sizing: border-box;
+}
+
+.videos--contenedor-botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.videos--boton--guardar, .videos--boton--limpiar{
+    background-color:  rgb(36,33,26);
+    width: 180px;
+    padding: 10px;
+    border-radius: 12px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.videos--boton--guardar{
+    border: 1px solid #53cbbf;
+    color: #53cbbf;
+    box-shadow: 2px 2px 3px #72d6cc inset;
+}
+.videos--boton--limpiar{
+    border: 1px solid white;
+    color: white;
+}

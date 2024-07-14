@@ -1,0 +1,69 @@
+{
+  "card": [
+    {
+      "titulo": "Equipo Front End",
+      "categoria": "FRONT END",
+      "imagen": "https://i.ytimg.com/vi/rpvrLaBQwgg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoKpoRlVQCz_RrJKrwuA9onAd7Rw",
+      "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "descripcion": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End.",
+      "id": "343"
+    },
+    {
+      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma?",
+      "categoria": "FRONT END",
+      "imagen": "https://i.ytimg.com/vi/UuAX5azcvDQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrCt-PBwcf6kaY9dwPI0aJ78jXxQ",
+      "video": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+      "id": "344"
+    },
+    {
+      "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+      "categoria": "BACK END",
+      "imagen": "https://i.ytimg.com/vi/Z024LSCMqFk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3xjx2-sGxZ00NSrSkEswD_8mPSA",
+      "video": "https://www.youtube.com/watch?v=Z024LSCMqFk",
+      "descripcion": "¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile",
+      "id": "345"
+    },
+    {
+      "id": "c26da82c-ab88-46fc-a31a-f372c7ac5827",
+      "titulo": "Cómo volverse un desarrollador Front End #AluraTips",
+      "categoria": "FRONT END",
+      "imagen": "https://i.ytimg.com/vi/-Ou5c3A225k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3uegSVd_620Hnsi5j9fLREQ9Oaw",
+      "video": "https://www.youtube.com/watch?v=-Ou5c3A225k",
+      "descripcion": "Terminé mis estudios, ¿y ahora? ¿Cómo puedo entrar al mercado laboral? ¿Cómo encontrar un trabajo front end? En este video nuestra instructor Barbara nos da algunos consejos para las personas que desean entrar en el área del desarrollo web."
+    },
+    {
+      "id": "824e88b5-f0e1-4e1d-b119-2383a9331811",
+      "titulo": "Currículum, qué incluir y qué dejar fuera #AluraMás",
+      "categoria": "INNOVACION Y GESTION",
+      "imagen": "https://i.ytimg.com/vi/nzVdLC_QpnA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEbAFA1wlf0xM4JeLHFgysofMdDA",
+      "video": "https://www.youtube.com/watch?v=nzVdLC_QpnA",
+      "descripcion": "¿Estás preparando tu currículum y no sabes qué información es realmente importante? En este video, te guiaré paso a paso sobre qué elementos son esenciales para incluir en tu CV y qué detalles es mejor dejar fuera. Aprenderás a destacar tus habilidades y experiencias relevantes para captar la atención de los reclutadores y aumentar tus oportunidades de conseguir el trabajo que deseas."
+    },
+    {
+      "id": "c66f4e93-d778-4574-ae3c-ffe9d465a13e",
+      "titulo": "Webserie IA: Utiliza ChatGPT para practicar inglés",
+      "categoria": "INNOVACION Y GESTION",
+      "imagen": "https://i.ytimg.com/vi/0kkeYthTGr0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmspEmxVNe7ScaMMiJlZv1oQQSCw",
+      "video": "https://www.youtube.com/watch?v=Yz-6uHdwBPE",
+      "descripcion": "Ya no es novedad que las inteligencias artificiales existen para ayudarnos con nuestras tareas laborales y del día a día, pero ¿sabías que puedes aprender y practicar inglés utilizando una IA? En este video, Christian Velasco, nos enseña como podemos utilizar el ChatGPT para practicar inglés."
+    }
+  ],
+  "categorias": [
+    {
+      "nombre": "FRONT END",
+      "color": "#53cbbf",
+      "id": "b6cd"
+    },
+    {
+      "nombre": "BACK END",
+      "color": "#d5d87d",
+      "id": "c96f"
+    },
+    {
+      "nombre": "INNOVACION Y GESTION",
+      "color": "#fa7785",
+      "id": "18cd"
+    }
+  ]
+}

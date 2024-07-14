@@ -1,0 +1,22 @@
+.select {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+
+.select--label {
+    color: white;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.select--select {
+    border: 1px solid #b1d4b6;
+    width: 100%;
+    background-color:  rgb(36,33,26);
+    border-radius: 12px;
+    padding: 10px;
+    box-sizing: border-box;
+    color: rgb(157, 145, 145);
+}

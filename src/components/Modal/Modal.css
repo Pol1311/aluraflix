@@ -1,0 +1,96 @@
+.modal {
+    background-color:  rgba(36,33,26,0.9);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+}
+
+.modal--form{
+    margin-top: 60px;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    background-color:  rgb(36,33,26);
+    border: 1px solid #53cbbf;
+    border-radius: 12px;
+    box-shadow: 0 5px 12px #72d6cc ;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.modal--form--close{
+    width: 40px;
+    position: absolute;
+    top:0;
+    right: 0;
+    transform: translate(-30%,30%);
+    cursor: pointer;
+}
+
+.modal--form--title{
+    color: #53cbbf;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 10px;
+    width: 60%;
+    box-sizing: border-box;
+    margin-top: 60px;
+}
+
+.modal--form--label {
+    color: white;
+    padding: 10px;
+    width: 60%;
+    box-sizing: border-box;
+}
+
+.modal--form--textarea {
+    border: 1px solid #b1d4b6;
+    width: 60%;
+    background-color:  rgb(36,33,26);
+    border-radius: 12px;
+    padding: 10px;
+    box-sizing: border-box;
+    color: rgb(157, 145, 145);
+}
+
+.modal--form--buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 60%;
+    box-sizing: border-box;
+}
+
+.modal--form--buttons--erase,
+.modal--form--buttons--save{
+    background-color:  rgb(36,33,26);
+    width: 180px;
+    padding: 10px;
+    border-radius: 12px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.modal--form--buttons--save {
+    border: 1px solid #53cbbf;
+    color: #53cbbf;
+    box-shadow: 2px 2px 3px #72d6cc inset;
+}
+
+.modal--form--buttons--erase {
+    border: 1px solid white;
+    color: white;
+} 

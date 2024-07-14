@@ -1,0 +1,45 @@
+.header {
+    background-color: #24211a;
+    box-shadow: 0 5px 12px #72d6cc ;
+    color: #53cbbf;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    z-index: 1;
+}
+
+.header--logo{
+    padding: 0 10px;
+}
+
+.header--container--button{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.header--buttons {
+    width: 160px;
+    padding: 10px 10px;
+    background-color: #24211a;
+    border-radius: 15px;
+    margin: 10px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.header--home {
+    border: 1px solid #53cbbf;
+    color: #53cbbf;
+    box-shadow: 2px 2px 3px #72d6cc inset;
+    cursor: pointer;
+}
+
+.header--new {
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+}
